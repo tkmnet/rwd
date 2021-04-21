@@ -15,7 +15,7 @@ $ rcd [KEY]
 ```
 git https://github.com/tkmnet/rwd.git .rwd
 ```
-2. Add following line to `~/.bashrc`, and replace [PATH-TO-RWD].
+2. Add following line to `~/.bashrc`.
 ```
-source [PATH-TO-RWD]/rwd.sh
+source $HOME/.rwd/rwd.sh
 ```
