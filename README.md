@@ -13,7 +13,7 @@ rcd [KEY]
 ## Installation
 1. Clone this repository. I recommend to clone to `~/.rwd`.
 ```sh
-git https://github.com/tkmnet/rwd.git .rwd
+git https://github.com/tkmnet/rwd.git ~/.rwd
 ```
 2. Add following line to `~/.bashrc`.
 ```
