@@ -11,7 +11,11 @@ $ rcd [KEY]
 ```
 
 ## Installation
-Add following line to `~/.bashrc`, and replace [PATH-TO-RWD].
+1. Clone this repository. I recommend to clone to `~/.rwd`.
+```
+git https://github.com/tkmnet/rwd.git .rwd
+```
+2. Add following line to `~/.bashrc`, and replace [PATH-TO-RWD].
 ```
 source [PATH-TO-RWD]/rwd.sh
 ```
