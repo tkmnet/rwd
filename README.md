@@ -11,7 +11,7 @@ rcd [KEY]
 ```
 
 ## Installation
-1. Clone this repository. I recommend to clone to `~/.rwd`.
+1. Clone this repository. I recommend to clone to `~/.rwd` because rwd will create file in `~/.rwd`.
 ```sh
 git https://github.com/tkmnet/rwd.git ~/.rwd
 ```
