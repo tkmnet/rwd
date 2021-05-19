@@ -19,3 +19,4 @@ git clone https://github.com/tkmnet/rwd.git ~/.rwd
 ```
 source $HOME/.rwd/rwd.sh
 ```
+* If you are using csh families, you can use `rwd.csh`.
