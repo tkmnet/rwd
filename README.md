@@ -4,7 +4,7 @@ Registered working directory command
 ## Usage
 ```sh
 # Register current directory to rwd with [KEY].
-rwd [KEY] # the empty can be used as a key.
+rwd [KEY] # the empty key is available; it will be replaced "_default".
 
 # Jump to a refistered working directory.
 rcd [KEY]
