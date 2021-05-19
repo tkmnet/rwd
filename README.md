@@ -15,7 +15,7 @@ rcd [KEY]
 ```sh
 git https://github.com/tkmnet/rwd.git ~/.rwd
 ```
-2. Add following line to `~/.bashrc`. If you put rwd in a place other than `~/.rwd`, then replace `$HOME/.rwd`.;
+2. Add following line to `~/.bashrc`. If you put rwd in a place other than `~/.rwd`, then replace `$HOME/.rwd`.
 ```
 source $HOME/.rwd/rwd.sh
 ```
